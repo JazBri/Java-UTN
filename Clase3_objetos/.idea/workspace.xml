@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47f0baf9-9fbe-4bf5-8d54-4187c95ed29e" name="Default Changelist" comment="" />
+    <list default="true" id="47f0baf9-9fbe-4bf5-8d54-4187c95ed29e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,11 +16,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1Zqy9pDUNs3MLvFQF7WTuHxUVvM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -87,10 +96,14 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="888" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1585605614430" />
-    <state x="791" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1585592566940">
+    <state x="791" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1586957390185">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="791" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1585592566940" />
+    <state x="791" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1586957390185" />
+    <state x="418" y="53" key="new project wizard" timestamp="1586957455058">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="418" y="53" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1586957455058" />
     <state x="727" y="200" key="run.anything.popup" timestamp="1585604338259">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -99,5 +112,16 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="758" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1585604449248" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/Main.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
