@@ -1,7 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fa1604d-6ff9-474c-8cba-b9641cd5c518" name="Default Changelist" comment="" />
+    <list default="true" id="8fa1604d-6ff9-474c-8cba-b9641cd5c518" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Clase3_objetos/src/com/company/ItemVenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Abstract/Circulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Abstract/Cuadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Abstract/Figura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Abstract/Rectangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Forms/Cilindro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Forms/Circulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase1_Introduccion_a_la_Poo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase1_Introduccion_a_la_Poo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase2_Objetos/out/production/Clase2_Objetos/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase2_Objetos/out/production/Clase2_Objetos/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase3_objetos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase3_objetos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase3_objetos/out/production/Clase3_objetos/com/company/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase3_objetos/out/production/Clase3_objetos/com/company/Cliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase3_objetos/out/production/Clase3_objetos/com/company/Cuenta3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase3_objetos/out/production/Clase3_objetos/com/company/Cuenta3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase3_objetos/out/production/Clase3_objetos/com/company/Factura.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase3_objetos/out/production/Clase3_objetos/com/company/Factura.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase3_objetos/out/production/Clase3_objetos/com/company/Libro.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase3_objetos/out/production/Clase3_objetos/com/company/Libro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase3_objetos/out/production/Clase3_objetos/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase3_objetos/out/production/Clase3_objetos/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase3_objetos/src/com/company/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase3_objetos/src/com/company/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase3_objetos/src/com/company/Cuenta3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase3_objetos/src/com/company/Cuenta3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase3_objetos/src/com/company/Factura.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase3_objetos/src/com/company/Factura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase3_objetos/src/com/company/Libro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase3_objetos/src/com/company/Libro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Clase3_objetos/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase3_objetos/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Clase4_objetos/com/company/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Clase4_objetos/com/company/Estudiente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Clase4_objetos/com/company/Gato.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Clase4_objetos/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Clase4_objetos/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Clase4_objetos/com/company/Perro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Clase4_objetos/com/company/Persona.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Clase4_objetos/com/company/Staff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/herencia/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Estudiente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Students/Estudiente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Gato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/herencia/Gato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Perro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/herencia/Perro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Students/Persona.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Staff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Students/Staff.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,11 +51,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1aZyYBablNWxdM8Up4YTu5n4agQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -51,26 +96,38 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="922" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1586962670001">
+    <state x="922" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1587249001179">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="922" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1586962670001" />
-    <state width="723" height="221" key="GridCell.Tab.0.bottom" timestamp="1586963999624">
+    <state x="922" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1587249001179" />
+    <state x="904" y="320" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587245685917">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="723" height="221" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586963999624" />
-    <state width="723" height="221" key="GridCell.Tab.0.center" timestamp="1586963999624">
+    <state x="904" y="320" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.864@0.0.1536.864" timestamp="1587245685917" />
+    <state x="932" y="187" key="FileChooserDialogImpl" timestamp="1587165354375">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="723" height="221" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1586963999624" />
-    <state width="723" height="221" key="GridCell.Tab.0.left" timestamp="1586963999624">
+    <state x="932" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1587165354375" />
+    <state width="816" height="221" key="GridCell.Tab.0.bottom" timestamp="1587249005368">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="723" height="221" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1586963999624" />
-    <state width="723" height="221" key="GridCell.Tab.0.right" timestamp="1586963999624">
+    <state width="816" height="221" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587249005368" />
+    <state width="816" height="221" key="GridCell.Tab.0.center" timestamp="1587249005368">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="723" height="221" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1586963999624" />
+    <state width="816" height="221" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1587249005368" />
+    <state width="816" height="221" key="GridCell.Tab.0.left" timestamp="1587249005368">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="816" height="221" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1587249005368" />
+    <state width="816" height="221" key="GridCell.Tab.0.right" timestamp="1587249005368">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="816" height="221" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1587249005368" />
+    <state x="849" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1587165339576">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="849" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1587165339576" />
     <state x="895" y="61" key="refactoring.ChangeSignatureDialog" timestamp="1586959831555">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

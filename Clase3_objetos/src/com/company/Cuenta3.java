@@ -1,10 +1,19 @@
 package com.company;
 
 public class Cuenta3 {
+
+////////// CAMPUS RESOLVE //////////
+
+    private static final int MAX_OPS = 10;
+    private String operaciones[] = new String[MAX_OPS];
+    private int contadorOperaciones = 0;
+//////////   //////////   //////////
+
     private String id = generateID();
     private float balance;
     private Cliente3 client;
-    private static int count = 0;
+    private int count = 0;
+
 
 //Empty constructor
     public Cuenta3() {
@@ -18,6 +27,29 @@ public class Cuenta3 {
 
 //Setters nd Getters
 
+
+////////// CAMPUS RESOLVE //////////
+private void documentarDeposito(double monto) {
+    if (this.contadorOperaciones == MAX_OPS) {
+        this.contadorOperaciones = 0;
+    }
+    operaciones[contadorOperaciones] = "El cliente " + client.getName() + ", depositó " + monto;
+    this.contadorOperaciones++;
+}
+
+    private void documentarRetiro(double monto) {
+        if (this.contadorOperaciones == 10) {
+            this.contadorOperaciones = 0;
+        }
+        operaciones[contadorOperaciones] = "El cliente" + client.getName() + ", retiró " + monto;
+        this.contadorOperaciones++;
+    }
+
+
+    public String[] getOperaciones() {
+    return operaciones;
+}
+    //////////   //////////   //////////
     public Cliente3 getClient() {
         return client;
     }

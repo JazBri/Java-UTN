@@ -1,17 +1,19 @@
 package com.company;
 
+import java.util.Arrays;
+
 public class Libro {
     private String title;
     private float price;
     private int stock;
-    private Autor autor;
+    private Autor[] autor;
 
 //Empty constructor
     public Libro() {
     }
 
 //Constructor
-    public Libro(String title, float price, int stock, Autor autor){
+    public Libro(String title, float price, int stock, Autor[] autor){
         this.title = title;
         this.price = price;
         this.stock = stock;
@@ -32,7 +34,7 @@ public class Libro {
         this.title = title;
     }
 
-    public void setAutor(Autor autor) {
+    public void setAutor(Autor[] autor) {
         this.autor = autor;
     }
 
@@ -40,8 +42,9 @@ public class Libro {
         setStock(this.stock + more);
     }
 //Getters
-    public Autor getAutor() {
-        return autor;
+    public Autor[] getAutor() {
+            return autor;
+
     }
 
 
@@ -63,9 +66,9 @@ public class Libro {
     public String toString() {
         return "El libro {" +
                 "title='" + title + '\'' +
-                ", de =" + autor.getName() +
+                ", de =" + Arrays.toString(autor) +
                 ", se vende a =" + price +
-                " pesos"
+                " pesos, hay " + stock
                 ;
     }
 }

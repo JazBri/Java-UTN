@@ -1,6 +1,8 @@
-package com.company;
+package com.company.Students;
 
-public class Staff extends Persona{
+import com.company.Students.Persona;
+
+public class Staff extends Persona {
     private float salario;
     private String turno;
 

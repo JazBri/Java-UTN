@@ -1,8 +1,9 @@
 package com.company;
-import java.util.Random;
+import java.util.UUID;
 
 public class Cliente {
-    private String id = generateID();
+    //private String id = generateID();
+    private UUID id = UUID.randomUUID();
     private String name;
     private String email;
     private float discount;
@@ -20,11 +21,11 @@ public class Cliente {
     }
 
 //Setters
-    public String getId() {
+    public UUID getId() {
         return id;
     }
 
-    public void setId(String id) {
+    public void setId(UUID id) {
         this.id = id;
     }
 

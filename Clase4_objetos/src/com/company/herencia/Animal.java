@@ -1,4 +1,4 @@
-package com.company;
+package com.company.herencia;
 
 public class Animal {
     private String especie;

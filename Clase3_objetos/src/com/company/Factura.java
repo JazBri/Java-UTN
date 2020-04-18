@@ -1,20 +1,29 @@
 package com.company;
 
+import java.util.Arrays;
+import java.util.UUID;
+import java.time.LocalDateTime;
+//TO FIX : DELETE THE FECHA CLASS AND USE import java.time.LocalDateTime;
+
 public class Factura {
-    private String id = generateID();
+    //private String id = generateID();
+    private UUID id = UUID.randomUUID();
     private float totalAmount;
-    private Fecha date;
+//    private Fecha date;
+    private LocalDateTime date;
     private Cliente client;
+    private ItemVenta[] arrayItemVenta;
 
 //Empty constructor
     public Factura() {
     }
 
 //Constructor
-    public Factura(float totalAmount, Fecha date, Cliente client){
+    public Factura(float totalAmount, Cliente client, ItemVenta[] arrayItemVenta){
         this.totalAmount = totalAmount;
-        this.date = date;
+        this.date = LocalDateTime.now();
         this.client = client;
+        this.arrayItemVenta = arrayItemVenta;
     }
 
 //Getters y Setters
@@ -26,12 +35,8 @@ public class Factura {
         this.client = client;
     }
 
-    public Fecha getDate() {
+    public LocalDateTime getDate() {
         return date;
-    }
-
-    public void setDate(Fecha date) {
-        this.date = date;
     }
 
     public float getTotalAmount() {
@@ -42,14 +47,14 @@ public class Factura {
         this.totalAmount = totalAmount;
     }
 
-    public String getId() {
+    public UUID getId() {
         return id;
     }
 
-    public void setId(String id) {
-        this.id = id;
-    }
 
+    public ItemVenta[] getItems() {
+        return arrayItemVenta;
+    }
 //Methods
     public String generateID() {
         String idRand = " ";
@@ -72,6 +77,6 @@ public class Factura {
                 ", totalAmount = " + totalAmount +
                 ", discount = " + client.getDiscount() +
                 ", client = " + client.getId() + client.getName() + client.getEmail() + client.getDiscount() +
-                '}';
+                 ", Items = " + Arrays.toString(arrayItemVenta) + '}';
     }
 }

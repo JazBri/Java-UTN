@@ -1,14 +1,16 @@
-package com.company;
+package com.company.herencia;
 
-public class Gato extends Animal{
+import com.company.herencia.Animal;
+
+public class Perro extends Animal {
     private String nombre;
 
-    public Gato(){
+    public Perro(){
         this.setEspecie("b");
         this.nombre = "a";
     }
 
-    public Gato(String especie, String nombre){
+    public Perro(String especie, String nombre){
         super(especie);
         this.nombre = nombre;
     }
@@ -23,7 +25,7 @@ public class Gato extends Animal{
 
     @Override
     public String toString() {
-        return "Gato{" +
+        return "Perro{" +
                 "nombre='" + nombre + '\'' + super.toString() +
                 '}';
     }
