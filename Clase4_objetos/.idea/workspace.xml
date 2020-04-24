@@ -2,42 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8fa1604d-6ff9-474c-8cba-b9641cd5c518" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Clase3_objetos/src/com/company/ItemVenta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Abstract/Circulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Abstract/Cuadrado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Abstract/Figura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Abstract/Rectangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Forms/Cilindro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Forms/Circulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase1_Introduccion_a_la_Poo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase1_Introduccion_a_la_Poo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase2_Objetos/out/production/Clase2_Objetos/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase2_Objetos/out/production/Clase2_Objetos/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase3_objetos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase3_objetos/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase3_objetos/out/production/Clase3_objetos/com/company/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase3_objetos/out/production/Clase3_objetos/com/company/Cliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase3_objetos/out/production/Clase3_objetos/com/company/Cuenta3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase3_objetos/out/production/Clase3_objetos/com/company/Cuenta3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase3_objetos/out/production/Clase3_objetos/com/company/Factura.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase3_objetos/out/production/Clase3_objetos/com/company/Factura.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase3_objetos/out/production/Clase3_objetos/com/company/Libro.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase3_objetos/out/production/Clase3_objetos/com/company/Libro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase3_objetos/out/production/Clase3_objetos/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase3_objetos/out/production/Clase3_objetos/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase3_objetos/src/com/company/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase3_objetos/src/com/company/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase3_objetos/src/com/company/Cuenta3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase3_objetos/src/com/company/Cuenta3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase3_objetos/src/com/company/Factura.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase3_objetos/src/com/company/Factura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase3_objetos/src/com/company/Libro.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase3_objetos/src/com/company/Libro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Clase3_objetos/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Clase3_objetos/src/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Clase4_objetos/com/company/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Clase4_objetos/com/company/Estudiente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Clase4_objetos/com/company/Gato.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Clase4_objetos/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Clase4_objetos/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Clase4_objetos/com/company/Perro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Clase4_objetos/com/company/Persona.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Clase4_objetos/com/company/Staff.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/herencia/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Estudiente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Students/Estudiente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Gato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/herencia/Gato.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Perro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/herencia/Perro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Students/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Staff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Students/Staff.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,26 +73,31 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="932" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1587165354375" />
-    <state width="816" height="221" key="GridCell.Tab.0.bottom" timestamp="1587249005368">
+    <state width="810" height="221" key="GridCell.Tab.0.bottom" timestamp="1587249876267">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="816" height="221" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587249005368" />
-    <state width="816" height="221" key="GridCell.Tab.0.center" timestamp="1587249005368">
+    <state width="810" height="221" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587249876267" />
+    <state width="810" height="221" key="GridCell.Tab.0.center" timestamp="1587249876267">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="816" height="221" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1587249005368" />
-    <state width="816" height="221" key="GridCell.Tab.0.left" timestamp="1587249005368">
+    <state width="810" height="221" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1587249876267" />
+    <state width="810" height="221" key="GridCell.Tab.0.left" timestamp="1587249876267">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="816" height="221" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1587249005368" />
-    <state width="816" height="221" key="GridCell.Tab.0.right" timestamp="1587249005368">
+    <state width="810" height="221" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1587249876267" />
+    <state width="810" height="221" key="GridCell.Tab.0.right" timestamp="1587249876267">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="816" height="221" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1587249005368" />
-    <state x="849" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1587165339576">
+    <state width="810" height="221" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1587249876267" />
+    <state x="849" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1587494043490">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
+    <state x="849" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864/-1920.0.1920.1080@0.0.1536.864" timestamp="1587494043490" />
     <state x="849" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1587165339576" />
+    <state x="328" y="53" key="new project wizard" timestamp="1587494152432">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="328" y="53" key="new project wizard/0.0.1536.864/-1920.0.1920.1080@0.0.1536.864" timestamp="1587494152432" />
     <state x="895" y="61" key="refactoring.ChangeSignatureDialog" timestamp="1586959831555">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
