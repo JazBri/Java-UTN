@@ -1,13 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c399401-7456-4718-8530-8a7f196af0fa" name="Default Changelist" comment="" />
+    <list default="true" id="7c399401-7456-4718-8530-8a7f196af0fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/Empresa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/empleado/Arquitecto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/empleado/Empleado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/empleado/Maestro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/empleado/Obrero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/obra/Comercial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/obra/Comercio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/obra/Domestica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/obra/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/obra/Obra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1b0PSiiJ3VhWIaWyNrjnHyhW8WL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -29,6 +53,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -44,9 +73,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="784" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1587766048795">
+    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser" timestamp="1588003478128">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
+    <state x="574" y="148" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864/-1920.0.1920.1080@0.0.1536.864" timestamp="1588003478128" />
+    <state width="1493" height="130" key="GridCell.Tab.0.bottom" timestamp="1588003735297">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="130" key="GridCell.Tab.0.bottom/0.0.1536.864/-1920.0.1920.1080@0.0.1536.864" timestamp="1588003735297" />
+    <state width="1493" height="130" key="GridCell.Tab.0.center" timestamp="1588003735297">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="130" key="GridCell.Tab.0.center/0.0.1536.864/-1920.0.1920.1080@0.0.1536.864" timestamp="1588003735297" />
+    <state width="1493" height="130" key="GridCell.Tab.0.left" timestamp="1588003735297">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="130" key="GridCell.Tab.0.left/0.0.1536.864/-1920.0.1920.1080@0.0.1536.864" timestamp="1588003735297" />
+    <state width="1493" height="130" key="GridCell.Tab.0.right" timestamp="1588003735297">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="130" key="GridCell.Tab.0.right/0.0.1536.864/-1920.0.1920.1080@0.0.1536.864" timestamp="1588003735297" />
+    <state x="-940" y="320" key="com.intellij.ide.util.TipDialog" timestamp="1588000006110">
+      <screen x="-1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="-940" y="320" key="com.intellij.ide.util.TipDialog/0.0.1536.864/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1588000006110" />
     <state x="784" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1587766048795" />
   </component>
 </project>
